@@ -133,7 +133,7 @@ require (
 	github.com/hashicorp/hcl/v2 v2.18.0 // indirect
 	github.com/hashicorp/jsonapi v0.0.0-20210826224640-ee7dae0fb22d // indirect
 	github.com/hashicorp/serf v0.9.6 // indirect
-	github.com/hashicorp/terraform v1.6.0-alpha20230816.0.20230830220421-9e9a78e96cd2 // indirect
+	github.com/hashicorp/terraform v1.6.0-beta1 // indirect
 	github.com/hashicorp/terraform-plugin-log v0.9.0 // indirect
 	github.com/hashicorp/terraform-registry-address v0.2.0 // indirect
 	github.com/hashicorp/terraform-svchost v0.1.1 // indirect
